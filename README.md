@@ -1,6 +1,4 @@
 ### Hi there, I'm Uon Liaquat! 👋
-<!--
-**deadoralive023/deadoralive023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Glad to see you here! 🤩  
 
